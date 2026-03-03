@@ -1983,6 +1983,78 @@
           "answer": "Default deny",
           "hint": "",
           "sub_collection_name": null
+        },
+        {
+          "question": "What is the conceptual framework that describes the design and organization of a network by providing a high-level view of its components and their relationships?",
+          "answer": "A computing architecture model",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What are five examples of computing architecture?",
+          "answer": "Centralized \ndecentralized client/server\nindustrial control systems\ncloud \nmicroservices.",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "A computing environment where all processing and data storage are managed by a central server or mainframe, rather than on individual devices.",
+          "answer": "Centralized computing",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What is the decentralized computing model where a client device communicates with a server to request services or data?",
+          "answer": "Client-server architecture",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What is the name for the category of networked devices and software used to monitor and control industrial processes like manufacturing and power generation?",
+          "answer": "Industrial Control Systems (ICS)",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What are the two fundamental architectural types for an Industrial Control System (ICS)?",
+          "answer": "Centralized\nDecentralized",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What type of specialized ICS is designed for monitoring and controlling large-scale industrial processes?",
+          "answer": "Supervisory Control and Data Acquisition (SCADA)",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "In a software architecture, what term describes the use of small, independent services that communicate over a network to enable scalability and flexibility?",
+          "answer": "Microservices architecture",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What type of computing architecture is characterized by a powerful central computer, like a mainframe, handling all processing and data storage for connected clients?",
+          "answer": "Centralized",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What is the term for the scalable delivery of services over the Internet based on business demands?",
+          "answer": "Cloud computing",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What is the name for the architectural style where an application is structured as a collection of small, independent services that communicate over a network?",
+          "answer": "Microservices",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What category of control systems, essential for managing industrial processes like those in power plants and manufacturing, is a primary focus in the operational technology (OT) security domain?",
+          "answer": "Industrial Control Systems (ICS)",
+          "hint": "",
+          "sub_collection_name": null
         }
       ]
     }
