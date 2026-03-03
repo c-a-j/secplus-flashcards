@@ -821,12 +821,6 @@
           "sub_collection_name": null
         },
         {
-          "question": "fff",
-          "answer": "fffff",
-          "hint": "ff",
-          "sub_collection_name": null
-        },
-        {
           "question": "What security issue arises when assets are not inventoried, recorded, or tracked, and what are two examples of processes that can help identify these assets?",
           "answer": "The issue is Undocumented Assets. \nProcesses to help identify them include Network Access Control (NAC), network mapping, and vulnerability scanning.",
           "hint": "",
@@ -865,6 +859,1128 @@
         {
           "question": "What is the common IT term for the unplanned and unmanaged proliferation of systems, applications, or data within an organization?",
           "answer": "System sprawl",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What is the term for an attack that exploits human nature, rather than technical vulnerabilities, to gain unauthorized access to information or facilities?",
+          "answer": "Social engineering",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "According to the text, what attack method is frequently described as involving the 'path of least resistance' and is a key cause of many security incidents?",
+          "answer": "Social engineering",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What are the two primary tactics used by Social Engineers who exploit basic human instincts and responses?",
+          "answer": "Pretexting and impersonation",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "In the context of social engineering or investigative activities, what is the term for a fabricated scenario or story, designed with plausible elements of truth, that hides the true purpose of an operation?",
+          "answer": "A pretext",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What type of security attack primarily targets human cognitive functions rather than technical systems?",
+          "answer": "Social engineering",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What are the four psychological motivators that are commonly exploited in social engineering attacks to trigger an automatic response?",
+          "answer": "Authority, Trust, Fear, Urgency, and Curiosity.",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "In social engineering, which human instinct do attackers exploit by creating a scenario that implies a threat of harm to oneself or others?",
+          "answer": "Fear",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What are the four common types of remote social engineering attacks?",
+          "answer": "Phishing, Smishing, Vishing, and Watering Hole attacks.",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What term describes a type of social engineering attack that uses pretexting and impersonation, primarily via email, and is metaphorically compared to \"casting a net\"?",
+          "answer": "Phishing",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What social engineering technique uses text messages for pretexting and impersonation attacks?",
+          "answer": "SMSishing",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What are three common social engineering techniques that specifically use voice communication to deceive targets?",
+          "answer": "Vishing, pretexting, and impersonation.",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "In the context of cybersecurity, what is the name for an attack strategy where an adversary compromises a third-party site that the intended victims are known to visit?",
+          "answer": "Watering hole attack",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "In local, non-digital social engineering, what is the term for the technique that involves searching through an organization's trash to find sensitive information?",
+          "answer": "Dumpster Diving",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What type of observation, which can be conducted nearby or remotely, is used to describe a method of compromising information security through visual eavesdropping?",
+          "answer": "Shoulder surfing",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What is the term for the security breach where an unauthorized person gains access by following closely behind an authorized individual through a checkpoint?",
+          "answer": "The term is piggybacking, also known as tailgating.",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What is the term for the act of searching through trash and recycling bins to find information?",
+          "answer": "Dumpster diving",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What social engineering tactic involves leaving a physical item, such as a gift, in a location where a target is likely to find it?",
+          "answer": "Baiting",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What term describes the deliberate spreading of false or misleading information to deceive people?",
+          "answer": "Disinformation",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What is the term for altering media content using simple video editing software?",
+          "answer": "Shallow fake",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "Deceptive audio or video content generated with machine learning and/or AI.?",
+          "answer": "Deep fake",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "According to cybersecurity principles, what is considered the key element, which must be supported by technical and physical controls, to defend against social engineering?",
+          "answer": "User awareness",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What are two methods used to improve user awareness against manipulation?",
+          "answer": "Training to recognize signs of manipulation and participation in social engineering simulations.",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What are four examples of technical controls used in social engineering cybersecurity?",
+          "answer": "Email and attachment filtering, browser security settings, sandboxing, and patch management.",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What are the three primary categories of physical security controls?",
+          "answer": "Surveillance, access controls, and removable media controls.",
+          "hint": "Social Engineering",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What are the three main categories of controls listed for enhancing security, along with one example for each?",
+          "answer": "User Awareness (e.g., training to recognize signs of manipulation), \nTechnical (e.g., email and attachment filtering)\nPhysical (e.g., surveillance).",
+          "hint": "Social Engineering",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What term describes a set of tactics and techniques used to manipulate people through deception?",
+          "answer": "Social engineering",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What is the cybersecurity attack method called where an attacker infects a website or online service that is known to be used by a specific group of targets?",
+          "answer": "A watering hole attack.",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What specific security metric is defined as the measure of the sum of all threat vectors that could potentially target an organization?",
+          "answer": "Attack surface",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "The date when a product, service, or subscription is determined to be obsolete.",
+          "answer": "EOL (End-of-life),",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "List six common security controls used to respond to the threat of data being transmitted or retrieved in violation of a security policy?",
+          "answer": "Data classification controls\nDLP monitoring\nfirewall rules\nuser education\nnondisclosure agreements\nlog review.",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What is the name for the transmission, transfer, or retrieval of data that violates a security policy?",
+          "answer": "Data exfiltration",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What type of vulnerability specifically refers to weaknesses found within an organization's internal hardware or software infrastructure?",
+          "answer": "network vulnerabilities",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "Code weaknesses (bugs) that can be exploited, and/or misconfigurations.",
+          "answer": "operating system vulnerabilities",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What type of vulnerabilities arise from a security exposure that exists within a process itself?",
+          "answer": "Process vulnerabilities",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What is the practice of publicly sharing information concerning a security vulnerability?",
+          "answer": "Ethical disclosure",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What is the security principle of making all vulnerability details public, even if it risks the information being used maliciously?",
+          "answer": "Full disclosure",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "To release enough information so that informed decisions can be made, while withholding details that could be useful to an adversary.",
+          "answer": "responsible disclosure",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What is the name of the overall process that involves identifying, assessing, reporting on, prioritizing, and mitigating system weaknesses?",
+          "answer": "Vulnerability management",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What is the primary objective of a vulnerability management program?",
+          "answer": "To reduce the risk of security breaches and minimize the potential impact of any identified vulnerabilities.",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What type of vulnerability is defined as a flaw in hardware or software for which no fix is available at the time of its discovery?",
+          "answer": "A zero-day (0-day) vulnerability",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What is the term for the period starting when an exploit becomes active and ending when the number of vulnerable systems becomes insignificant?",
+          "answer": "The Window of Vulnerability (WoV).",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What security term describes a vulnerability that is exploited by attackers before the software developers are aware of it or can issue a fix?",
+          "answer": "A zero-day vulnerability (or zero-day attack)",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "In cybersecurity, what is the term for a weakness in hardware, software, people or processes",
+          "answer": "Vulnerability",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What term describes a weakness or flaw in an organization's hardware or software infrastructure that can be exploited?",
+          "answer": "Network vulnerability",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What is the name of the software vulnerability that occurs when a program writes more data to a memory buffer than it can hold?",
+          "answer": "Buffer overflow",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What is the term for the act of inserting malicious code into the memory space of a running process, often to execute unintended instructions?",
+          "answer": "Memory injection",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What is the term for the failure of an operating system or application to release memory that was allocated dynamically?",
+          "answer": "A memory leak",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What term describes a flaw in a system where the timing of actions interferes with each other, leading to an unexpected outcome?",
+          "answer": "A race condition",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "When a program checks a resource's state and then uses that information to make a decision?",
+          "answer": "Time-of-check (TOC)",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "In programming, a situation where a program relies on the timing of events, either happening concurrently or in a specific order.",
+          "answer": "TOE stands for Time-of-evaluation.",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "Insertion of code or commands by exploiting input validation or processing mechanisms.",
+          "answer": "Injection",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What is the security vulnerability that allows access to files and directories stored outside of the intended directory?",
+          "answer": "Directory traversal",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "In cybersecurity, what is the term for the process of gaining elevated access to resources that are normally protected?",
+          "answer": "Privilege escalation",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What security vulnerability involves an attacker injecting malicious instructions to run arbitrary code on a target system?",
+          "answer": "Command injection",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What security vulnerability involves the use of widely known or published access credentials?",
+          "answer": "Default Credentials",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What type of security weaknesses exploits physical properties like power consumption or electromagnetic radiation to extract information?",
+          "answer": "Side-channel vulnerabilities",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What is the term for installing software on a mobile device from a source other than an official app store?",
+          "answer": "Sideloading",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What is the term for bypassing security restrictions on a mobile device to gain greater control over its operating system and files?",
+          "answer": "Jailbreaking",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "two primary types of indicators used to help identify and detect cybersecurity threats.",
+          "answer": "Indicators of Attacks (IoAs)\nIndicators of Compromise (IoCs)",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What term describes behaviors or actions that suggest an attack is currently happening or imminent?",
+          "answer": "Indicators of Attacks (IoAs)",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What type of evidence suggests that a system's security may have been breached?",
+          "answer": "Indicators of Compromise (IoCs)",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What term describes evidence or signs used to detect potential threats before they cause major damage or compromise?",
+          "answer": "Indicators of Attack (loA)",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "Which cybersecurity framework, developed by Lockheed Martin, describes the stages an attacker progresses through to identify and exploit network vulnerabilities?",
+          "answer": "The Cyber Kill Chain® framework",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What are four examples of Common Indicators of Attack (IoA) that security teams monitor for?",
+          "answer": "Unusual Network Traffic, Phishing Emails, Unusual System Events, and Unauthorized Software.",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What are artifacts called that are used to identify potential security breaches after an event has already occurred?",
+          "answer": "Indicators of Compromise (IoC)",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What term describes the pieces of evidence or clues, such as log entries or file changes, that indicate a potential security breach?",
+          "answer": "Artifacts",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "In cybersecurity, what is the name for the centralized remote system that is used by an attacker to maintain communications with and send directives to compromised hosts?",
+          "answer": "Command and Control Server (C2)",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What is the first phase of the cyber kill chain, where an adversary collects data to plan an attack?",
+          "answer": "Reconnaissance",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "List the seven stages of the Lockheed Martin Cyber Kill Chain in order.",
+          "answer": "Reconnaissance, Weaponization, Delivery, Exploitation, Installation, Command and Control, Actions on Objectives",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What are four common types of malware families?",
+          "answer": "Virus, Worm, Trojan, Root Kits",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "Malicious code whose primary function is to replicate and deliver its payload, requiring a host to do so.",
+          "answer": "virus",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What type of malicious software is self-replicating, exploits known vulnerabilities, and spreads using network transport features?",
+          "answer": "Worm",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What type of malware masquerades as legitimate software to deceive users while secretly performing malicious actions such as downloading additional malware or logging keystrokes?",
+          "answer": "Trojan",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "A clandestine computer program designed to provide continued, privileged access to a computer while actively hiding its presence.",
+          "answer": "Rootkit",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What type of malicious software can overwrite firmware such as BIOS to execute before the operating system loads?",
+          "answer": "Firmware rootkits",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What is the name for a type of malware that replaces the operating system's bootloader to ensure it executes prior to the OS?",
+          "answer": "Bootkit",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What type of malware replaces a portion of the operating system kernel to achieve automatic execution at boot time?",
+          "answer": "Kernel rootkit",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What type of malware impersonates a trusted component that the operating system relies on to communicate with hardware, and is addressed by UEFI and Driver Attestation?",
+          "answer": "driver rootkit",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "malware that is designed to avoid detection by being inconspicuous, typically through methods such as concealing file size or moving to an alternate location.",
+          "answer": "Stealth malware",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "In the context of computer security, what do you call malicious software that loads into memory and remains there to infect other active applications?",
+          "answer": "Memory-resident malware",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "type of malware that evades pattern-matching detection by frequently changing identifiable characteristics like file name, file type, or encryption keys.",
+          "answer": "Polymorphic malware",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What is the term for a type of malware that completely rewrites its own code with each new iteration, creating a new version that is structurally different from the one before?",
+          "answer": "Metamorphic malware",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What are four common types of advanced malware attacks?",
+          "answer": "Advanced Persistent Threat (APT), Command & Control (C2), Bot or Zombie, and Ransomware",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What is the objective of a Command and Control (C2) attack?",
+          "answer": "For the compromised system to contact the 'command center,' giving the attacker control of the infected device.",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "A sophisticated, slow, stealthy, and prolonged attack on a specific target with the intention to compromise their system and gain information from or about that target.",
+          "answer": "What is an Advanced Persistent Threat (APT)?",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "Automated processes that either have instructions embedded or listen for instructions.",
+          "answer": "Bots and Zombies",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What type of malware encrypts files and demands ransom for the decryption key?",
+          "answer": "Ransomware",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What are backdoors designed to bypass?",
+          "answer": "Access controls",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What type of malicious code is designed to execute when a certain event or time occurs?",
+          "answer": "Logic bomb",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What type of malicious software is designed to gather information about a person or organization and send it to another entity?",
+          "answer": "Spyware",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What is the term for unwanted, often harmful software that comes pre-installed on new computers and devices?",
+          "answer": "Bloatware or potentially unwanted applications (PUAs)",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What type of self-replicating malware exploits known vulnerabilities in software to spread across networks?",
+          "answer": "Worm",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What is the term for a type of malware that changes its identifiable code frequently to evade detection by signature-based antivirus software?",
+          "answer": "Polymorphic malware",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What type of malware blocks access to a computer system or data, often by encryption, until a sum of money is paid?",
+          "answer": "Ransomware",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What term describes automated processes that can operate with embedded instructions or by listening for commands?",
+          "answer": "Bots  or Zombies",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What is the common industry term for software that comes pre-installed on a device but is not essential and is often difficult to remove?",
+          "answer": "Bloatware, also known as potentially unwanted applications (PUAs)",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What type of problem-solving approach is characterized by relying on sheer strength or computational power, but is constrained by its inefficiency and lack of sophistication?",
+          "answer": "brute force",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What term describes an exhaustive, trial-and-error approach to attacking a system, service, or data set?",
+          "answer": "Cyber brute force attack",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "In cybersecurity, what type of attack has a payload that consists of the very act of carrying out the attack?",
+          "answer": "Conduct brute force approach (eg Denial of Service (DoS) attack)",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "Two types of brute force approaches",
+          "answer": "Conduct\nDiscovery",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "In the context of password security, what are the four common types of discovery attacks?",
+          "answer": "basic, dictionary, informed, and rainbow table",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What is the defining characteristic of a basic brute force discovery method?",
+          "answer": "It attempts every single possible solution.",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What type of cyber attack uses a finite reference list or data set, such as a common password list?",
+          "answer": "A dictionary brute force attack",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What type of cybersecurity attack uses a known, valid reference list or data set to attempt access, with credential stuffing being a prime example?",
+          "answer": "An informed brute force discovery attack.",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What type of attack uses a precomputed table of hashes to reverse cryptographic hash functions and find the original plaintext?",
+          "answer": "A rainbow table attack.",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What are four common technical measures used to mitigate brute force attacks?",
+          "answer": "Rate limiting, account lockout policies, multi-factor authentication (MFA), and intrusion prevention systems (IPS).",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "In cryptographic security, what term describes the estimation of the amount of time, effort, and resources an adversary would need to compromise a system?",
+          "answer": "Work factor",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "Credential Stuffing is an example of what specific form of brute force attack where the attacker uses known credentials from one breach to attempt access on other services?",
+          "answer": "Informed brute force attack",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What is the name of the cyberattack where an attacker uses a list of stolen usernames and passwords from one breach to gain unauthorized access to accounts on other services?",
+          "answer": "Credential Stuffing",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "In the context of security attacks, what is the primary objective of a brute force attack that is specifically aimed at a resource like a web server, application, or network?",
+          "answer": "Denial of Service",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What type of assets are Information Technology (IT) systems primarily concerned with managing?",
+          "answer": "Data and information assets",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What type of systems use hardware and software to monitor and control physical processes in environments like manufacturing plants?",
+          "answer": "Operational Technology (OT)",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What is the DDoS attack method called where an attacker generates a high volume of traffic by exploiting services that produce larger responses to small requests?",
+          "answer": "An amplification attack",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What type of network attack involves an attacker sending a large volume of requests to a device, but using the victim's IP address as the source?",
+          "answer": "A reflection attack.",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "In network security, what is the term for a type of attack where a malicious actor pretends to be a trusted address, system, or person to redirect or manipulate actions?",
+          "answer": "Spoofing",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What is the security attack that involves manipulating a trusted data source, like DNS, to redirect or control actions?",
+          "answer": "Poisoning",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What is the name for the attack that involves intercepting and controlling communication between systems to eavesdrop, capture, manipulate, or reuse data packets?",
+          "answer": "Hijacking",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "cyber attack characterized by overwhelming a system's resources to make services unavailable?",
+          "answer": "Denial of Service",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What is the name of the attack that involves corrupting a legitimate data source, such as a DNS server or network cache, to redirect users to a malicious site?",
+          "answer": "A poisoning attack",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What is the term for the act of disguising a communication from an unknown source as being from a known, trusted source?",
+          "answer": "Spoofing",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What type of cyber attack is characterized by its goal of overwhelming a system's resources to make it unavailable to legitimate users?",
+          "answer": "Denial of Service (DoS) attack. A Distributed Denial of Service (DDoS) attack is a variant that uses multiple systems to launch the attack.",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What type of attack, formerly known as a man-in-the-browser attack, involves manipulating a user's browser to control their session and alter what is displayed?",
+          "answer": "On-path Attack",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What term describes the use of hardware and software systems to monitor and control industrial physical processes, which is distinct from IT systems?",
+          "answer": "OT (Operational Technology)",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What are the three main objectives of an application attack?",
+          "answer": "To manipulate the input, manipulate what is sent to the processor, or manipulate the output.",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What type of cybersecurity attack involves manipulating an application to send unintended commands to an interpreter, such as an OS, LDAP, or SQL server?",
+          "answer": "An injection attack",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What is the name of the attack that involves injecting malicious scripts into a web application so they execute in a victim's browser?",
+          "answer": "Cross-Site Scripting (XSS)",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What type of web application attack exploits the trust a site has in a user's browser by tricking it into performing an unwanted action?",
+          "answer": "Cross-Site Request Forgery (CSRF)",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What type of attack uses specially crafted input with \"../\" sequences to access files outside of the intended directory scope?",
+          "answer": "Directory Traversal",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What is the term for the process where output is checked for correctness before it is delivered to the end user or client application?",
+          "answer": "Output validation",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What type of attack involves storing malicious code on a server so that it is later served to a victim's browser?",
+          "answer": "Persistent Cross-Site Scripting (P-XSS)",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What is the security attack that involves manipulating an application into sending unauthorized commands to an interpreter?",
+          "answer": "Injection attack",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What type of client-side code injection attack involves malicious scripts that are reflected off a web server to a victim's browser?",
+          "answer": "Reflective Cross-Site-Scripting (R-XSS)",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What type of exploit is described as enabling unauthorized or unsolicited access to an end-user device through a wireless connection?",
+          "answer": "A wireless access attack",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What type of wireless attack involves capturing data packets to eavesdrop, manipulate, or reuse them?",
+          "answer": "A sniffing attack",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What is the term for the act of sending an unsolicited message to a device by exploiting its Bluetooth discovery feature?",
+          "answer": "Bluejacking",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What is the term for an attack that exploits weak or non-existent authentication to discover and connect to a Bluetooth device without authorization?",
+          "answer": "Bluesnarfing",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What term describes an attack where an attacker establishes a connection with a victim's device by simply being in very close physical proximity?",
+          "answer": "An NFC (Near Field Communication) bump",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What term describes the act of impersonating a wireless device, connection, or chip?",
+          "answer": "Spoofing",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What is the name for a rogue access point that is configured with the same SSID as a legitimate one to deceive users into connecting?",
+          "answer": "An Evil Twin attack.",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What type of attack involves replicating an RFID chip's data to gain unauthorized access, commit fraud, or tamper with inventory systems?",
+          "answer": "RFID Cloning",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "In wireless security, what is the term for an attack that overwhelms radio frequencies with illegitimate traffic, rendering them unavailable for legitimate use?",
+          "answer": "Jamming",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What type of wireless attack involves spoofing management frames to force a device to disconnect and repeatedly reconnect to a network, and is also known as a deauthentication attack?",
+          "answer": "Disassociation attack",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What is the term for the unauthorized access and theft of data from a wireless device via a Bluetooth connection?",
+          "answer": "Blue Snarfing",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What type of wireless attack involves sending spoofed frames that forcibly terminate an existing connection?",
+          "answer": "Deauthentication and Disassociation attacks",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "In the context of NFC security, what is the term for the act of gaining unwanted proximity to a device or its communication?",
+          "answer": "Bumping",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What type of wireless attack involves deliberately transmitting radio signals on the same frequency range as a wireless network to disrupt communication?",
+          "answer": "Jamming",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What is the term for a malicious wireless access point that uses the same SSID as a legitimate one to trick users into connecting?",
+          "answer": "Evil Twin",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What term describes the act of bypassing a cryptographic system by leveraging a vulnerability in its code, cipher, protocol, or implementation?",
+          "answer": "Cryptographic attack",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What is the term for the process of discovering a vulnerability or weakness in a cryptographic algorithm?",
+          "answer": "Cryptanalysis",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "In the context of cryptographic attacks, what is the name of the attack where an adversary forces a system to use a weaker, less secure mode of operation to facilitate exploitation?",
+          "answer": "A downgrade attack",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What type of attack is based on information gained from a computer system's implementation, rather than weaknesses in its algorithm?",
+          "answer": "A side-channel attack",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What type of security attack involves using physical data like monitoring CPU cycles, power consumption, and radiation emissions to compromise a cryptosystem?",
+          "answer": "A side-channel attack.",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What type of cryptographic attack occurs when an attacker uses a mathematical technique to force two different inputs to create the same output hash?",
+          "answer": "A collision attack.",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What type of cryptographic attack exploits the mathematics of the birthday problem in probability theory to find a collision?",
+          "answer": "The birthday attack",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What is the name of the attack where an adversary uses a captured set of hashed user credentials to authenticate to other network resources without needing to decrypt the password?",
+          "answer": "pass-the-hash attack",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "An attack where captured hashed credentials from one machine are used to gain control of another machine is called what?",
+          "answer": "Pass-the-hash",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "An application unexpectedly and deliberately deactivates itself on a specific date, December 31st. What type of malware is this most characteristic of?",
+          "answer": "Logic bomb",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "An adversary repeatedly authenticates to a consumer online banking system using correct customer credentials they obtained. Which credential discovery method uses precomputed hash tables to efficiently reverse cryptographic hash functions?",
+          "answer": "Informed",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What type of malicious software is described as a clandestine program that is installed to provide an attacker with continued privileged access to a compromised system?",
+          "answer": "A rootkit",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What is the specific type of malicious software defined by its primary function being to replicate and deliver a payload?",
+          "answer": "A virus",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "Which type of cross-site scripting (XSS) attack is characterized by the attacker's malicious script being permanently stored on the target server?",
+          "answer": "Persistent XSS",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What method is most effective at preventing an injection attack from successfully executing?",
+          "answer": "Input and output validation",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What type of malware rewrites its own code with each iteration so that every subsequent version is different from the one before it?",
+          "answer": "Metamorphic malware",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "In cybersecurity, what is the term for a system-level property that describes its ability to handle adverse cyber events through prevention, mitigation, and recovery?",
+          "answer": "Survivability",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "According to the categorization of secure design principles, what are the three primary sets used to guide security architecture?",
+          "answer": "Secure Design Planning Principles, \nSecure Design Configuration Principles, and \nSecure Design Relationship Principles.",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What are the five Secure Design Planning Principles listed?",
+          "answer": "Threat Modeling\nKeep it Simple\nDefault Deny Posture\nFail-Secure\nOpen Design",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "Five Secure Design Configuration Principles",
+          "answer": "Secure the Weakest Link\nDefense-in-Depth\nLeast Functionality\nAppropriate Disclosure\nSanitize Data Sent to Other Systems",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What are the five key principles that inform secure design relationships in a security framework?",
+          "answer": "Zero Trust\nTrust but Verify\nSeparation of Duties\nLeast Privilege\nPsychological Acceptance.",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What is the principle that advocates for relying on a system's published design being robust, rather than keeping its workings secret?\nThe opposite of \"security through obscurity\"",
+          "answer": "Open design",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What core principle of a modern security model asserts that access should not be automatically granted based on network location or asset ownership?",
+          "answer": "Zero-trust",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What is the security principle called that involves dividing a task into segments to prevent any single individual from having full control?",
+          "answer": "Separation of duties",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What are the eight common network security zones used to segment and control traffic based on trust levels?",
+          "answer": "Screened Subnet\nUntrusted\nTrusted\nEnclave\nPhysically Isolated\nVirtual Private Network (VPN)\nAir Gapped\nWireless",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What type of network architecture places a network segment between a trusted internal network and an untrusted external one, with connections to both?",
+          "answer": "A screened subnet",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What is the term for a restricted network that exists within another trusted network?",
+          "answer": "enclave",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What type of network is completely isolated from any external systems that are not trusted?",
+          "answer": "An air-gapped network",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What term describes a computer network that is completely separated from all other external networks?",
+          "answer": "A physically isolated network",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What is the name of the security technique that isolates workloads by creating individual, secure zones within data center and cloud environments?",
+          "answer": "Micro-segmentation",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "In network architecture, what terms describe traffic flowing into and out of a data center versus traffic moving within it?",
+          "answer": "Traffic flowing into and out of a data center is called North-South traffic.\nTraffic moving within a data center is called East-West traffic.",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "In the context of Zero Trust, what term describes the specific, known collection of a network's most critical data, assets, applications, and services?",
+          "answer": "protect surface",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What security environment relies heavily on micro-segmentation to define its perimeter, where authentication is mandatory and access is granted based on least privilege?",
+          "answer": "zero trust protect surface",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What term describes the segregation of zones, devices, sessions, or components to prevent them from causing harm to or being harmed by other system parts?",
+          "answer": "Isolation",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What core technology allows for the creation of multiple isolated environments using a single physical hardware system?",
+          "answer": "Virtualization",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What technology provides fault and security isolation for system resources, such as memory and CPU, at the hardware level?",
+          "answer": "Virtual Machines (VM)",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What networking structure is used to create multiple, separate logical network segments within a single physical network to enforce restrictions?",
+          "answer": "A Virtual Local Area Network (VLAN)",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "A zone that connects to both trusted and untrusted networks",
+          "answer": "Screened subnet",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "A discussion among systems architects about secure design principles includes multiple layers of controls, permission-based access controls, and privileged access management. According to the options, which of these principles is NOT part of their discussion?\n\nLeast functionality\nDefault deny\nZero trust\nDefense-in-depth",
+          "answer": "Least functionality",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "In access control, what is the principle that bases access decisions on permission rather than on exclusion?",
+          "answer": "Default deny",
           "hint": "",
           "sub_collection_name": null
         }
