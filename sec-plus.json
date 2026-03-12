@@ -2559,6 +2559,246 @@
           "answer": "Cloud bursting",
           "hint": "",
           "sub_collection_name": null
+        },
+        {
+          "question": "In the context of network security, what is the term for a self-contained device or software instance that provides a specific, dedicated function?",
+          "answer": "An appliance.",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What is the term for a network device that collects information about the network or host and can report or act on that information?",
+          "answer": "A sensor",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "In the context of network monitoring and analysis, what is the term for a device that performs targeted collection and feeds data into an aggregation or correlation engine?",
+          "answer": "A collector",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What is the term for network hardware like patch panels and couplers that simply allow data to pass through without modifying or generating signals?",
+          "answer": "Passive network devices",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What term describes network devices, such as switches, routers, and firewalls, that can control or modify data as it passes through the network?",
+          "answer": "Active network devices",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What type of security device is placed directly in the communication path to actively analyze and process data packets in real-time? Examples include IPS, firewalls, and load balancers.",
+          "answer": "An inline device",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What is the name of the passive hardware device that creates a copy of all packets traversing a network link for monitoring purposes?",
+          "answer": "Network tap",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What is the term for a network security control mode that permits traffic to pass through if the device experiences a failure?",
+          "answer": "Fail-open mode",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "In the context of network security devices, what is the operational mode called that allows traffic to continue flowing if the device itself fails?",
+          "answer": "Fail-open mode.",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "In the context of network security, what does a device operating in fail-closed mode do upon a failure?",
+          "answer": "The device blocks all network traffic.",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What is the intended security outcome of configuring a network device in fail-closed mode?",
+          "answer": "To ensure network security by blocking all traffic if the device fails, preventing unauthorized access.",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What is the term for a passive network device that operates by creating a copy of all data packets for monitoring purposes?",
+          "answer": "Network Tap",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "In security monitoring, what term describes an alert that is triggered by benign activity mistakenly classified as malicious?",
+          "answer": "False positive",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "In security monitoring, what is the term for the decision state where abnormal activity is incorrectly identified as normal?",
+          "answer": "False negative",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "In the context of network security controls, what is the term for a failure mode that allows traffic to continue to flow when a security device, like a firewall or IPS, malfunctions?",
+          "answer": "Fail-open",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What is the security process that involves controlling access to a network, identifying suspicious behavior, and preventing the unauthorized transfer of data?",
+          "answer": "Network Access Control",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What type of network security device is primarily used to filter traffic based on a set of security rules, controlling its flow into and out of a network?",
+          "answer": "A firewall",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What type of security system is designed to analyze and monitor network traffic for suspicious activity, but does not automatically take action to block it?",
+          "answer": "An Intrusion Detection System (IDS)",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What is the name for a server that is specifically designed to provide a controlled, secure access point to other, more sensitive systems on a network?",
+          "answer": "Jump server",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What type of network component acts as an intermediary by filtering, fetching, and caching web requests on behalf of clients?",
+          "answer": "A proxy server",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What security control is designed to assess and enforce security policies on devices before they are granted access to a network?",
+          "answer": "Network Access Control (NAC)",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What security technology is designed to detect and prevent unauthorized data transfer or exfiltration?",
+          "answer": "Data Loss Prevention (DLP)",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What is the primary objective of a traditional firewall in network security?",
+          "answer": "To isolate network segments and control traffic by managing ingress and egress access.",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What is the key functional difference between an Intrusion Detection System (IDS) and an Intrusion Prevention System (IPS)?",
+          "answer": "An IDS only analyzes and monitors traffic, while an IPS can also proactively block or deny traffic.",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What are the two main deployment categories for Intrusion Prevention Systems (IPS) and Intrusion Detection Systems (IDS)?",
+          "answer": "Network-based (NIDS/NIPS) and host-based (HIDS/HIPS).",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What is the term for a security device placement that is directly in the flow of traffic and inspects every packet?",
+          "answer": "In-band placement.",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What type of placement uses a passive tap to receive copies of traffic and can only be applied to a NIDS?",
+          "answer": "Out-of-band placement",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What is the term for a hardened computer system or server that provides secure access to other computers or systems within a network?",
+          "answer": "A jump server, also known as a jump host or a bastion host",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What is the primary purpose and typical network placement of a jump server in a secure architecture?",
+          "answer": "A jump server acts as a controlled gateway for administrative access to internal systems and is typically deployed in a screened subnet (DMZ) to provide an additional security layer.",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What is a primary security function of a jump server beyond providing controlled access?",
+          "answer": "Enforce security policies and provide an audit trail of user activity.",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What type of server acts as an intermediary between a client and a server to filter, fetch, and cache requests?",
+          "answer": "A proxy server",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What are the three common proxy server configurations?",
+          "answer": "Forward proxy, transparent proxy, and reverse proxy.",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "In a proxy configuration where client browsers are set to send their requests through an intermediary server that caches static content for future use, what type of proxy is being described?",
+          "answer": "Forward proxy",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What type of proxy server operates on a network gateway, intercepting client requests without requiring any configuration on the client (browser)  side?",
+          "answer": "A transparent proxy",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What type of proxy server appears to clients as an ordinary web server and is used to cache static content to reduce load on the backend server?",
+          "answer": "A reverse proxy",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What type of security system uses agents to evaluate endpoints before allowing them onto the network and enforces policies both before and after connection?",
+          "answer": "Network Access Control (NAC) systems",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "In network access control, what type of policies evaluate a device's health and configuration to determine if and where it can connect?",
+          "answer": "Pre-admission policies",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What type of NAC policies are used to regulate and restrict access after a connection has already been authorized?",
+          "answer": "Post-admission policies",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What type of security solution is specifically designed to detect data movement and prevent the unauthorized or accidental release of data?",
+          "answer": "A data loss prevention (DLP) system",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "A passive security device whose primary function is to analyze and monitor network traffic for suspicious activity?",
+          "answer": "IDS (Intrusion Detection System)",
+          "hint": "",
+          "sub_collection_name": null
         }
       ]
     }
