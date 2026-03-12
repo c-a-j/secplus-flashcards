@@ -2055,6 +2055,510 @@
           "answer": "Industrial Control Systems (ICS)",
           "hint": "",
           "sub_collection_name": null
+        },
+        {
+          "question": "What term describes the on-demand delivery of IT resources like servers, storage, and databases over the Internet that scales with business needs?",
+          "answer": "Cloud computing",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What cloud computing model involves delivering software applications over the internet on a subscription basis?",
+          "answer": "Software-as-a-Service (SaaS)",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What are the primary security considerations an organization should evaluate when adopting a Software-as-a-Service (SaaS) solution?",
+          "answer": "Responsiveness, \nScalability, \nMaintenance, \nVulnerability Management, \nConfidentiality & Privacy, \nData Ownership, \nMultitenancy, \nTesting, \nAudit capabilities.",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What cloud service model provides customers with a managed platform for developing, running, and managing applications without maintaining the underlying infrastructure?",
+          "answer": "Platform-as-a-Service (PaaS)",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What are the ten primary security considerations that must be evaluated when using a Platform as a Service (PaaS) model?",
+          "answer": "Responsiveness\nScalability\nMaintenance\nVulnerability Management\nConfidentiality\nPrivacy\nData Ownership\nMulti-tenancy\nTesting\nAudit",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "Which cloud service model provides the customer with the most control and responsibility over the underlying infrastructure, including networking, storage, and virtual machines?",
+          "answer": "Infrastructure-as-a-Service (IaaS)",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What are the eight primary security considerations that must be addressed when implementing an IaaS (Infrastructure as a Service) solution?",
+          "answer": "Availability\nScalability\nMaintenance\nVulnerability Management\nConfidentiality\nMulti-tenancy\nTesting\nAudit",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What term describes a broad category of internet-accessible services delivered via cloud computing, in contrast to those hosted on local infrastructure?",
+          "answer": "Anything-as-a-service (XaaS)",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What is the term for the on-demand and temporary use of public cloud resources when private cloud or on-premises infrastructure capacity is exceeded?",
+          "answer": "Cloud bursting",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What are the three types of cloud bursting used in hybrid cloud models?",
+          "answer": "Distributed load balancing\nAutomated bursting\nManual bursting",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What type of load balancing is characterized by its focus on managing and monitoring the workload between a data center and a public cloud?",
+          "answer": "Distributed load balancing",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What type of cloud computing service model enables an organization to automatically provision resources on-demand based on pre-defined triggers?",
+          "answer": "Automated bursting",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What term describes the manual provisioning of cloud resources on a temporary basis to handle specific workloads?",
+          "answer": "Manual bursting",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "Which cloud deployment model is characterized by being provisioned for the exclusive use of a specific, well-defined group of consumers from organizations that have shared concerns?",
+          "answer": "Community Cloud",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "In which cloud service model are the computing resources, operating system, and application all managed by the provider?",
+          "answer": "Software-as-a-Service (SaaS)",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "For cloud security, which specific security and compliance framework outlines the distinct duties between a Cloud Service Provider (CSP) and the customer (provisioner)?",
+          "answer": "The shared responsibility model",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What term describes a system's ability to provide additional resources on-demand?",
+          "answer": "Scalability",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What are the five essential characteristics of a cloud computing infrastructure?",
+          "answer": "On-demand self-service\nBroad network access\nResource pooling\nRapid elasticity\nMeasured service",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What is the cloud computing characteristic where a consumer can automatically provision computing capabilities as needed without human interaction from the service provider?",
+          "answer": "On-demand self-service",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What cloud characteristic describes the capability for services to be accessed by a broad range of client platforms such as mobile phones, tablets, and laptops?",
+          "answer": "Broad Network Access",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What are two key characteristics of resource pooling in cloud computing that relate to how users access services without needing to know the physical location?",
+          "answer": "Location independence\nLocation abstraction (e.g., country, state, or data center)",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What is the term for the cloud capability that automatically adjusts the amount of pooled resources to align with fluctuating workload demand?",
+          "answer": "Scalability",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What are the two layers that comprise a cloud infrastructure?",
+          "answer": "1. Physical Layer (e.g., processors, memory, connectivity, and storage)\n2. Virtual Layer (abstracted)",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What is the term for the underlying abstracted infrastructure in cloud computing that allows users to provision and configure networking resources from a shared pool?",
+          "answer": "Virtual/Abstracted Infrastructure",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "In a cloud environment, what type of logical construct is used to assign network perimeter rules that govern communication based on ports and IP addresses?",
+          "answer": "Cloud security groups\nThey function at the TCP and IP layers, specifying rules for ports and source/destination addresses.",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What is the primary purpose of the logical packaging mechanism provided by containers for applications?",
+          "answer": "To abstract the application from the environment in which it runs.",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What two key capabilities does a high availability (HA) configuration provide, according to the Security+ exam objectives?",
+          "answer": "Redundancy\nAutomatic failover",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What is the term used in cloud configuration for a high-availability deployment that spans multiple data centers within a geographic region to provide data redundancy?",
+          "answer": "Regional instance",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What are the two components that make up the overall configuration of a regional instance in cloud security architecture?",
+          "answer": "A primary instance.\nA standby instance.",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "In the context of cloud infrastructure, what is the configuration called that uses synchronous replication between a primary and standby instance to ensure high availability and data redundancy?",
+          "answer": "A High Availability (HA)",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What is the name of the virtualization mechanism that operates at the OS-level to abstract CPU, memory, storage, and network resources?",
+          "answer": "Containers",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What characteristic of cloud computing allows an organization's resource usage to be scaled up or down automatically based on current demand?",
+          "answer": "Rapid elasticity",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What is the term for a set of geographically dispersed data centers that are interconnected and designed to work together within a defined perimeter?",
+          "answer": "A Region",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "In cloud computing, what is the term for a distinct location within a geographic region that has its own independent power, cooling, and networking infrastructure?",
+          "answer": "Availability zone",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What term describes the application of technology, programs, robotics, or processes to achieve outcomes with minimal human input?",
+          "answer": "Automation",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "In security automation, what term describes the integration of different tools and platforms to enable a coordinated, automated response to incidents?",
+          "answer": "Orchestration",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What is the term for the cloud computing concept where resources are automatically provisioned and deprovisioned based on demand?",
+          "answer": "Demand-generated resource allocation",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What term describes a system's ability to automatically accommodate larger loads by adding resources, either by making hardware stronger or adding additional nodes?",
+          "answer": "Scalability",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "In cloud computing, what term describes the dynamic provisioning and de-provisioning of resources to automatically match changing demand?",
+          "answer": "Elasticity",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "In cloud computing, what is the term for a model where the cloud provider dynamically allocates machine resources to run a piece of code in response to events?",
+          "answer": "Serverless computing",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What networking approach uses software-based controllers to manage and configure network infrastructure, abstracting the underlying hardware?",
+          "answer": "Software-Defined Networking (SDN)",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What is the cloud execution model called where the provider dynamically allocates only the compute and storage resources required to run a specific piece of code?",
+          "answer": "Serverless computing",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What is the architectural model in which code for serverless functions is only executed when a specific condition is met?",
+          "answer": "Event-driven",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What is the primary security challenge described for managing interactions between individual components in a microservices architecture?",
+          "answer": "Service-to-service authentication and authorization",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "Why might a microservices architecture pose a greater security challenge compared to a monolithic one, in terms of vulnerabilities?",
+          "answer": "It has a large number of interconnected components, increasing the overall attack surface.",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What is the primary architectural principle that makes Software-Defined Networking (SDN) possible?",
+          "answer": "The separation of the control plane and the data plane.",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What is the term for a network architecture approach that centralizes management by separating the control plane from the data plane, allowing for dynamic programmatic configuration?",
+          "answer": "Software Defined Networking (SDN)",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What is the architectural model called that involves dynamic allocation of resources to execute a specific piece of code for a limited time, without requiring the user to manage servers?",
+          "answer": "Serverless computing",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "In cloud computing, what is the term for the autonomic capability to provision and deprovision resources in response to both increases and decreases in workload?",
+          "answer": "Elasticity",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What technology allows for the creation of multiple isolated environments on a single physical hardware system?",
+          "answer": "Virtualization",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What type of software or firmware component is used to virtualize system resources?",
+          "answer": "A hypervisor",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What is the key architectural characteristic of a Type 1 hypervisor in terms of its relationship to the host system hardware and operating system?",
+          "answer": "A Type 1 hypervisor runs directly on the system hardware, without requiring a host operating system.",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What is the key performance and hardware consideration difference between a Type 1 and a Type 2 hypervisor?",
+          "answer": "Type 1 hypervisors are faster and more efficient but have greater hardware requirements and expense compared to Type 2 hypervisors.",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What technology hosts a desktop operating system on a centralized server in a data center, instead of on a local machine?",
+          "answer": "Virtual Desktop Infrastructure (VDI)",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What type of Virtual Desktop Infrastructure (VDI) provides users with a customizable, personal desktop image that is saved for future sessions?",
+          "answer": "Persistent VDI",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "In a Virtual Desktop Infrastructure (VDI) deployment, what is the term for a desktop pool that reverts to its original configuration after each user logout?",
+          "answer": "Nonpersistent VDI",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What term describes the complete reproduction of a physical network in software?",
+          "answer": "Network virtualization (NSX)",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What is the term for a security vulnerability where code running inside a virtual machine can break out and interact directly with the host operating system?",
+          "answer": "Virtual machine escape",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What is the term for the situation when the number of virtual systems becomes unmanaged, unnecessary, and non-compliant with licensing agreements?",
+          "answer": "Virtualization sprawl",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "In Virtual Desktop Infrastructure (VDI), what is the term for a deployment model where the user's desktop environment is reset to its original state upon logout?",
+          "answer": "Nonpersistent VDI",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What is the term for a security vulnerability that allows an attacker to break out of a guest virtual machine's isolated environment to interact with the host operating system?",
+          "answer": "Virtual Machine Escape",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What is the term for an electronic product containing a microprocessor and software designed to perform a specific, dedicated task?",
+          "answer": "An embedded system",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What term describes embedded systems that monitor and control physical industrial processes and can be either data-driven or remotely operated?",
+          "answer": "Industrial Control Systems (ICS)",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What acronym refers to a centralized Industrial Control System (ICS) used to monitor complex, geographically dispersed systems like electricity, natural gas, and water treatment?",
+          "answer": "SCADA (Supervisory Control and Data Acquisition)",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What are the three closed-loop components that generally make up an embedded system?",
+          "answer": "System on a Chip (SoC)\nReal-time Operating System (RTOS)\nApplication software",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "Why is there often little incentive for manufacturers to maintain or update the firmware of a System-on-a-Chip (SoC)?",
+          "answer": "System-on-a-Chip (SoC) devices are often inexpensive and have slim profit margins.",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What category of operating system, used in critical embedded systems, presents unique security risks including potential for becoming outdated, lack of available patches, and scarcity of expertise to install updates?",
+          "answer": "Real-Time Operating System (RTOS)",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What type of physical security attack involves inducing a fault in a device's operation by momentarily disrupting its power supply?",
+          "answer": "Active side channel",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What type of security attack involves physically connecting to an embedded device's hardware to read data directly from its memory?",
+          "answer": "A memory and bus attack",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What is an example of an attack that occurs when an embedded device's default administrator credentials are not changed?",
+          "answer": "Brute force single factor attack",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What term describes an unmanaged network-connected device, like an HVAC system or printer, that an attacker can compromise to gain a foothold for launching attacks against more critical systems?",
+          "answer": "steppingstone",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What term describes the type of authentication failure that occurs when an attacker uses the known default administrator password to gain access to an embedded device via a brute force attack?",
+          "answer": "Weak authentication",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What term describes a type of microprocessor that integrates the CPU, memory, and various peripheral interfaces all onto a single integrated circuit?",
+          "answer": "System on a Chip (SoC)",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What term describes a system of networked digital controllers used to automate and manage industrial processes like manufacturing and critical infrastructure?",
+          "answer": "Industrial Control Systems (ICS)",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What protocol standardized by the IETF in 2006 is used as a secure, encrypted replacement for the unsecure Telnet program?",
+          "answer": "Secure Shell (SSH)",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What term describes a network of physical objects embedded with sensors, software, and connectivity to exchange data and interact over the Internet?",
+          "answer": "Internet of Things (IoT)",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What acronym refers to the application of IoT technology in industrial settings to improve efficiency, productivity, and safety through the use of connected sensors and machines?",
+          "answer": "IIoT (Industrial Internet of Things)",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What term describes the deployment of data-handling activities at or near the data source to avoid centralized network segments?",
+          "answer": "Edge computing",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What is a primary reason Internet of Things (IoT) devices are particularly vulnerable to threats?",
+          "answer": "They lack built-in security controls and configurations.",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What is the general term for a hardware device that detects and responds to physical changes in its surroundings?",
+          "answer": "Sensors",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What is the term for the use of Internet of Things (IoT) technology specifically within manufacturing, energy, and other industrial sectors to improve efficiency and operations?",
+          "answer": "Industrial Internet of Things (IIoT)",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What term describes a device that can connect to a network, share data, and interact with its user, often as part of the Internet of Things (IoT)?",
+          "answer": "Smart device",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What is the name of the hardware component responsible for sending and receiving radio frequency signals in a wireless device?",
+          "answer": "Wireless transceiver",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What term describes the use of public cloud resources on-demand and temporarily when demand exceeds the capacity of a private cloud or on-premises infrastructure?",
+          "answer": "Cloud bursting",
+          "hint": "",
+          "sub_collection_name": null
         }
       ]
     }
