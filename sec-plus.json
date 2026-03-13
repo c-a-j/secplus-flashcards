@@ -2799,6 +2799,336 @@
           "answer": "IDS (Intrusion Detection System)",
           "hint": "",
           "sub_collection_name": null
+        },
+        {
+          "question": "Firewalls can serve as three types of security controls. They are a __1__ control due to discouraging attackers, a __2__ control by restricting traffic, and a __3__ control via logging and alerts.",
+          "answer": "deterrent\npreventive\ndetective",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What are the seven layers of the OSI model, from top to bottom?",
+          "answer": "Application\nPresentation\nSession\nTransport\nNetwork\nData Link\nPhysical",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "At which three OSI model layers can firewalls operate, based on their configuration?",
+          "answer": "Layer 3 (Network)\nLayer 4 (Transport)\nLayer 7 (Application)",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What are the seven layers of the OSI model, in order from 1 to 7?",
+          "answer": "1. Physical\n2. Data Link\n3. Network\n4. Transport\n5. Session\n6. Presentation\n7. Application",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "In the OSI model, what is the name, primary function, and responsibility of Layer 1?",
+          "answer": "Physical Layer\nIt is the hardware layer responsible for transmitting raw electrical, light, and radio signals.",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "In the OSI model, which layer is responsible for encoding and decoding electrical signals into bits, and what are the names of its two primary sublayers?",
+          "answer": "The Data Link Layer (Layer 2).\nMedia Access Control (MAC).\nLogical Link Control (LLC).",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "At which OSI model layer is switching and routing primarily handled?",
+          "answer": "Layer 3 (Network Layer)",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What OSI model layer is primarily responsible for end-to-end error recovery, flow control, and the transparent transfer of data between end systems?",
+          "answer": "Transport layer (Layer 4)",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "In the OSI model, which layer is responsible for the establishment, management, and termination of connections between applications?",
+          "answer": "Session layer (Layer 5)",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "In the OSI model, which layer is responsible for data representation, encryption, and decryption?",
+          "answer": "Layer 6, the Presentation layer.",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "At which OSI model layer do QoS and network services operate to support applications and end-user processes?",
+          "answer": "Layer 7 (Application Layer)",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "At which OSI model layer do packet-filtering firewalls operate, and what specific information do they use to make allow/deny decisions?",
+          "answer": "They operate at the Network layer (Layer 3).\nThey use header information: protocol, source address, destination address, and port.",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What type of firewall inspects packet headers and payloads, tracks the entire state of a network connection, and operates at the Transport layer (L4) of the OSI model?",
+          "answer": "Stateful firewall",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What type of firewall inspects entire transactions, performs deep packet inspection, incorporates application controls, and operates at OSI Layer 7?",
+          "answer": "Next-generation firewall (NGFW)",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What is the primary function and typical operating layers of a Unified Threat Management (UTM) device? What level(s) of the OSI model do these tools operate?",
+          "answer": "An all-inclusive security device that performs multiple functions like firewall, gateway, and anti-malware. It typically operates at OSI layers 3, 4, and 7.",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What type of security device is used to inspect and protect web applications from attacks like XSS and SQL injection by analyzing HTTP traffic? What level of the OSI model to these tools operate?",
+          "answer": "Web Application Firewall (WAF)\nIt operates at the Application layer (Layer 7) of the OSI model.",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "At which OSI model layer does a Web Application Firewall (WAF) typically operate to inspect and filter HTTP traffic?",
+          "answer": "The Application layer (Layer 7).",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "At which layer of the OSI model do virtual firewalls operate to protect virtualized environments like cloud infrastructure and VMs?",
+          "answer": "Application layer (Layer 7)",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "At which OSI model layer do virtual firewalls typically operate to provide security for virtualized environments?",
+          "answer": "The Application layer (Layer 7)",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "Name the three core protocols of the internet protocol suite, and provide their full names.",
+          "answer": "UDP - User Datagram Protocol\nTCP - Transmission Control Protocol\nIP - Internet Protocol",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What type of firewall is specifically designed to filter, monitor, and block HTTP traffic to and from a web application to protect it from common exploits?",
+          "answer": "Web Application Firewall (WAF)",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What is the term for a firewall that evaluates each network packet individually without tracking the state of active connections?",
+          "answer": "Stateless",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What is the security principle that states access should be denied by default unless explicitly permitted?",
+          "answer": "Default deny",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "At which OSI model layer do Next-Generation Firewalls (NGFWs) primarily operate to perform deep packet inspection?",
+          "answer": "Layer 7 - Application",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "In what order are the rules in a firewall's Access Control List (ACL) typically processed?",
+          "answer": "Top to bottom",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What is the term for a set of rules and procedures designed to ensure secure network communication with confidentiality, integrity, and authentication?",
+          "answer": "secure protocol",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "Name two widely used protocols for securing online transactions, email, and sensitive data transmissions.",
+          "answer": "Transport Layer Security (TLS)\nInternet Protocol Security (IPsec)",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What is the name, primary purpose, and default port of the security protocol developed by Netscape in 1995 that uses a stream cipher for negotiation?",
+          "answer": "Protocol: Secure Sockets Layer (SSL)\nPrimary Purpose: To establish a secure communication channel\nDefault Port: 443",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "Which cryptographic protocol, deprecated by the IETF in 2015 due to numerous vulnerabilities, should be disabled to prevent downgrade attacks?",
+          "answer": "Secure Socket Layer (SSL)\nSSL 3.0\nSSL 2.0",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What protocol, introduced in 1999, operates at the Transport Layer and uses port 443 to establish a secure communication channel via cryptographic key exchange?",
+          "answer": "TLS (Transport Layer Security)",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What are the seven steps, in order, of the TLS handshake process?",
+          "answer": "1. Client Hello\n2. Server Hello\n3. Certificate\n4. Server Key Exchange\n5. Client Key Exchange\n6. Cipher Specification\n7. Confirmation",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What is the name of the protocol suite used to secure IP communications by providing authentication, integrity, and confidentiality?",
+          "answer": "IPsec (Internet Protocol Security)",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "At which OSI model layer does IPsec operate, enabling it to encrypt data between systems identified by an IP address?",
+          "answer": "Network layer (Layer 3)",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What are the two modes of implementation for IPsec?",
+          "answer": "Tunnel mode\nTransport mode",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What is the current de facto standard protocol suite for creating IP-based Virtual Private Networks (VPNs)?",
+          "answer": "IPsec",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "In IPsec, what is the name of the mode where the original IP packet is fully encapsulated with a new IP header to become the payload?",
+          "answer": "Tunnel Mode",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "In IPsec, what mode is characterized by encrypting the payload but not the IP header, and is noted for having less overhead?",
+          "answer": "Transport mode",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What is the primary purpose of a virtual private network (VPN)?",
+          "answer": "To facilitate secure remote access communication over a public network.",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What is the name of the process that VPNs use to isolate network frames from the surrounding network?",
+          "answer": "Encapsulation or tunneling",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "In VPN terminology, what is the name of the method that isolates network frames from the surrounding network by routing all traffic through the VPN?\n\nIn VPN terminology, what is the name of the method that allows the routing of some traffic over the VPN while letting other traffic directly access the Internet?",
+          "answer": "Full tunneling\nSplit tunneling",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What are the two most commonly used protocols for establishing a Virtual Private Network (VPN)?",
+          "answer": "IPsec\nTLS",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "At which OSI model layer does IPsec operate, and what is a key benefit of this placement for VPNs?",
+          "answer": "IPsec operates at OSI Layer 3 (Network Layer).\nA key benefit is that IPsec VPNs can support all IP-based applications.",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What is a key limitation of TLS VPNs regarding the types of applications they can support, and why?",
+          "answer": "TLS VPNs generally only support browser-based applications.\nThis is because TLS operates at the OSI Application Layer (Layer 7).",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What technology creates a software-defined network overlay over an existing WAN infrastructure?",
+          "answer": "Software-Defined Wide Area Network (SD-WAN)",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What is the name of the cloud-based network security model that integrates WAN capabilities and security functions as a unified service?",
+          "answer": "Secure Access Service Edge (SASE)",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What underlying technology framework provides the foundational principles for Secure Access Service Edge (SASE)?",
+          "answer": "Software-Defined Networking (SDN)",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What is the name of the protocol suite that operates at OSI Layer 3 and provides encryption for data in transit between hosts identified by IP addresses?",
+          "answer": "IPsec",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "Which IPsec mode encapsulates the entire original IP packet, making it the payload for a new IP packet?",
+          "answer": "Tunnel mode",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What is the name of the VPN configuration that permits selective routing of traffic, where some data goes through the encrypted tunnel and other data accesses the Internet directly?",
+          "answer": "Split tunneling",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What is the name of the cloud-based network security model that integrates wide-area networking (WAN) and security functions into a single service delivered from the cloud?",
+          "answer": "Secure Access Service Edge (SASE)",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What is the primary security tool that enforces access control policies for network connections by checking both before and after a user or device is granted access?",
+          "answer": "Network Access Control (NAC)",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "A vulnerability scan report indicates missing critical patches, but later investigation reveals the patches were installed as part of a cumulative update. What is the classification of the original report's findings?",
+          "answer": "False positive",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "True or False: TLS establishes a secure channel by negotiation.",
+          "answer": "False",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "True or False: SSL establishes a secure channel through a process of negotiation between the client and server?",
+          "answer": "True",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "As of March 2020, which two versions of the TLS protocol were formally deprecated by the IETF?",
+          "answer": "TLS v1.0\nTLS v1.1",
+          "hint": "",
+          "sub_collection_name": null
         }
       ]
     }
