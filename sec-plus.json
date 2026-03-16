@@ -3129,6 +3129,252 @@
           "answer": "TLS v1.0\nTLS v1.1",
           "hint": "",
           "sub_collection_name": null
+        },
+        {
+          "question": "What term describes data that is protected by law or industry standards?",
+          "answer": "Regulated data",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What is the term for data that can be used to identify a specific individual?",
+          "answer": "Personally Identifiable Information (PII)",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What is the general term for the legal rights that protect intangible creations of the human intellect?",
+          "answer": "Intellectual property",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What is the term for data whose protection and handling requirements are explicitly defined within a formal contract or agreement?",
+          "answer": "Contractually protected data",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What term describes data that has been evaluated and found to meet an organization's established criteria for sensitivity and protection?",
+          "answer": "Organizationally classified",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What term describes data that is subject to specific laws, regulations, or industry standards governing its collection, use, storage, and disclosure?",
+          "answer": "Regulated data",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What term describes the power or right of a legal or political agency to exercise its authority over a person, subject matter, or territory?",
+          "answer": "Jurisdiction",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "In information security, what are the key factors that determine jurisdiction over data?",
+          "answer": "The location of data and systems (processing, transmission, storage)\nThe type of data\nThe residence of data owners\nThe residence of data subjects",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What term describes the act of operating in accordance with established rules, laws, policies, and obligations?",
+          "answer": "Compliance",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What is the term for the system used by organizations to structure governance, risk management, and regulatory compliance?",
+          "answer": "Governance, Risk and Compliance (GRC)",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "Which U.S. federal law specifically mandates the protection and confidentiality of consumer financial information held by financial institutions?",
+          "answer": "The Gramm-Leach-Bliley Act (GLBA)",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "Which U.S. federal law specifically regulates the security and privacy of medical records?",
+          "answer": "The Health Insurance Portability and Accountability Act (HIPAA)",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What U.S. law specifically regulates the security and privacy of student educational records?",
+          "answer": "The Family Educational Rights and Privacy Act (FERPA)",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What U.S. federal law specifically regulates the online collection of personal information from children under the age of 13?",
+          "answer": "Children’s Online Privacy Protection Act (COPPA)",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What EU/EEA regulation is designed to protect individuals from unlawful data collection/processing and increasing consent requirements and enhancing user rights?",
+          "answer": "General Data Protection Regulation (GDPR)",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "Which U.S. state law defines 'personal information' as any data that identifies, relates to, describes, is capable of being associated with, or could reasonably be linked to a particular consumer or household?",
+          "answer": "California Consumer Privacy Act (CCPA)",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What is the dual purpose of intellectual property (IP) law regarding creators and the public?",
+          "answer": "To encourage innovation and creativity by granting exclusive rights to creators and owners of IP, while balancing the interests of the public.",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What exclusive rights does a patent grant to its owner regarding an invention?",
+          "answer": "The right to exclude others from:\n- Making the invention\n- Using the invention\n- Selling the invention",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What type of intellectual property protection is designed for a brand's recognizable names, icons, shapes, colors, and sounds?",
+          "answer": "Trademark",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What type of intellectual property protection is intended to allow creators of original works to be credited and compensated?",
+          "answer": "Copyright",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What is the term for confidential proprietary information, processes, or practices that are critical to a business's competitive advantage?",
+          "answer": "Trade secrets",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What type of software is copyrighted, available at no cost for unlimited usage, but has its distribution controlled by the developer who retains all rights?",
+          "answer": "Freeware",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What type of software is described as copyrighted, available at no cost for unlimited usage, and encourages sharing to promote distribution?",
+          "answer": "Shareware",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What term describes software where the copyright holder grants users the rights to use, study, change, and distribute it to anyone for any purpose?",
+          "answer": "Open source software",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What type of software is characterized by being copyrighted, developed for sale or licensing, and where the developer retains all rights and distribution control?",
+          "answer": "Commercial Off-The-Shelf (COTS) software",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "According to the U.S. Copyright Office's March 2023 announcement, under what condition can AI-assisted works be copyrightable?",
+          "answer": "The work must involve sufficient human authorship.",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What is the name of the contractual security standard that applies to organizations handling payment card data?",
+          "answer": "Payment Card Industry Data Security Standard (PCI DSS)",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What are the five primary benefits of implementing a data classification scheme?",
+          "answer": "Cost\nSecurity\nCompliance\nPrioritization\nEfficiency",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What are the five classification levels of U.S. government information, from most to least sensitive?",
+          "answer": "Top Secret\nSecret\nConfidential\nControlled Unclassified Information\nUnclassified",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What is the formal determination by a government that allows an individual to access classified information up to a specific level called?",
+          "answer": "A security clearance",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What are the four common private sector data classification levels, from most to least restrictive?",
+          "answer": "Protected\nConfidential\nInternal Use Only\nPublic",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "In asset security, what type of classification is determined by evaluating the consequences or impact of an asset's loss to the organization?",
+          "answer": "Criticality",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What type of data classification is primarily determined by the potential negative consequences if the data is disclosed or compromised?",
+          "answer": "Sensitivity",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What is the name of the security technique that protects sensitive data by substituting it with fictional or de-identified values?",
+          "answer": "Data masking",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What are three common techniques used for data masking?",
+          "answer": "Replacing identifiable data with symbols\nShuffling the data\nApplying format-preserving data substitution methods",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What is the name of the data security technique that replaces sensitive data with a non-sensitive, format-preserving placeholder?",
+          "answer": "Tokenization",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What is the process by which tokenization secures sensitive data?",
+          "answer": "Sensitive data is securely captured and stored by a tokenization system. The system then generates a token that is mapped to the original data and replaces it with the token.",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What is the primary purpose of data obfuscation in a security context?",
+          "answer": "To make a data set difficult to understand or find by unauthorized users.",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "What is the name of the programming technique that hides internal object details to allow restricted access?",
+          "answer": "Data hiding",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "In programming, what is the term for the process of creating a data type that hides the details of its representation, thereby separating the interface from the implementation?",
+          "answer": "Data abstraction",
+          "hint": "",
+          "sub_collection_name": null
+        },
+        {
+          "question": "In the context of data protection roles, who is primarily responsible for advising, implementing, managing, and monitoring data protection controls?",
+          "answer": "Data custodians",
+          "hint": "",
+          "sub_collection_name": null
         }
       ]
     }
